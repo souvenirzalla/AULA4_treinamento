@@ -7,3 +7,4 @@ Este projeto possui a intenção de criar e aperfeiçoar um programa que permita
 3. Criar rotina para fase de aproximação do treinamento
 4. Criar rotina para fase de sons do treinamento
 5. Criar rotina de verificação do treino e encerramento do programa
+6. Modularizar o programa a partir de funções
